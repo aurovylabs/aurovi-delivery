@@ -54,11 +54,11 @@ Most decks stay a stack of slides. Aurovy gives connections a place to live:
 
 ## Status of this repo
 
-This is the **public community surface** under [aurovylabs](https://github.com/aurovylabs) (**delivery only** — not the private product tree).
+This is the **public community surface** for Aurovy under [aurovylabs](https://github.com/aurovylabs) (**delivery only** — not the private product tree).
 
 | Today | Next |
 |-------|------|
-| Product story, brand marks, landing screenshots | Full developable AGPL / self-host pack (same pattern as [zaoly-delivery](https://github.com/aurovylabs/zaoly-delivery)) |
+| Product story, brand marks, landing screenshots | Full developable AGPL / self-host pack |
 
 Until the pack lands: use **[aurovy.app](https://aurovy.app)** for the live product. Watch this repo for clone / Docker / self-host instructions.
 
@@ -70,10 +70,9 @@ Until the pack lands: use **[aurovy.app](https://aurovy.app)** for the live prod
 |--|--|
 | Product | [aurovy.app](https://aurovy.app) |
 | Org | [github.com/aurovylabs](https://github.com/aurovylabs) |
-| Sister product | [Zaoly](https://github.com/aurovylabs/zaoly-delivery) — design → reusable React components |
 
 ---
 
 ## License
 
-Community pack license will ship with the developable tree (AGPL-oriented, aligned with Zaoly delivery). Brand assets in `brand/` remain product trademarks — use them to represent Aurovy, not as a generic mark.
+Community pack license will ship with the developable tree (AGPL-oriented). Brand assets in `brand/` remain product trademarks — use them to represent Aurovy, not as a generic mark.
