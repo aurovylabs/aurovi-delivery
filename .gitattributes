@@ -1,0 +1,4 @@
+# Keep README screenshots as binary
+*.png binary
+*.jpg binary
+*.webp binary

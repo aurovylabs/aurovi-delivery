@@ -1,0 +1,14 @@
+Copyright (c) Aurovylabs / Aurovy contributors.
+
+This repository currently publishes brand marks and product documentation for the
+Aurovy community surface. The full developable product tree (and its license,
+expected AGPL-3.0-or-later aligned with sister delivery packs) will ship in a
+later export to this repository.
+
+Until then:
+
+- Code and materials here may be viewed for evaluating Aurovy.
+- Brand assets in `brand/` are trademarks — use them only to refer to Aurovy.
+- Do not redistribute a competing product under the Aurovy name or mark.
+
+See https://aurovy.app and https://github.com/aurovylabs
